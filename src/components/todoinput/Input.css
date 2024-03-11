@@ -1,0 +1,19 @@
+.input {
+    width: 400px;
+    height: 40px;
+    border-radius: 15px;
+    border: 2px solid #112D4E;
+    outline: 0;
+    color: #112D4E;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.input::placeholder {
+    font-size: 20px;
+}
+
+.input-wrapper {
+    display: flex;
+}
